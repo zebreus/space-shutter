@@ -1,0 +1,15 @@
+sdk: ^2.0.0-alpha.151
+prefixes:
+  mqtt: mqtt
+  pixel_strip: toit-pixel-strip
+packages:
+  mqtt:
+    url: github.com/toitware/mqtt
+    name: mqtt
+    version: 2.11.0
+    hash: d680e17757ac4ce4590b4880d906a788db6f7a34
+  toit-pixel-strip:
+    url: github.com/toitware/toit-pixel-strip
+    name: pixel_strip
+    version: 0.3.0
+    hash: 6afc86f08e0e751a58a4f56b119d5e14464a4762
